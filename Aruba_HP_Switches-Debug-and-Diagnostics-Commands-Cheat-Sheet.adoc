@@ -1,4 +1,8 @@
 = Aruba and HP switches debug and diagnostics commands cheat sheet
+Yuri SLobodyanyuk, admin@yurisk.info
+:homepage: 
+:toc:
+
 
 
 NOTE: All commands were tested on HP/Aruba 5400 switches (specifically 5406Rzl2), but will work on any model with recent firmware versions (16.x or newer), except for the hardware features unavailable on smaller models, like VSF .
