@@ -256,7 +256,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [forks-url]: https://github.com/diogogomes-pt/work/network/members
 [stars-shield]: https://img.shields.io/github/stars/diogogomes-pt/work.svg?style=for-the-badge
 [stars-url]: https://github.com/diogogomes-pt/work/stargazers
-[issues-shield]: https://img.shields.io/github/issues/diogogomes-pt/work.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/diogogomes-pt/work?style=for-the-badge
 [issues-url]: https://github.com/diogogomes-pt/work/issues
 [license-shield]: https://img.shields.io/github/license/diogogomes-pt/work.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
